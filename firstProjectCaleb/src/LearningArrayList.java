@@ -13,6 +13,7 @@ public class LearningArrayList {
 
         System.out.println("size of the array list is " + grades.size());
 
+
         System.out.println(grades);
 //        System.out.println(grades.get(2));
 
